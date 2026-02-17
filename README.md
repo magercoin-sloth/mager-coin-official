@@ -12,7 +12,7 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 
 - **The Ecosystem:** Bridging the gap between crypto and real-world utility.
 - **The Brand:** High-quality apparel and "cozy" merchandise.
-- **The Impact:** Giving back through the "Rumah Singgah $MAGER" initiative.
+- **The Impact:** Giving back through the "The $MAGER Shelter" initiative.
 
 ---
 
