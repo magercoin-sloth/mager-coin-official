@@ -43,6 +43,8 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 ---
 
 ### 🛡 Security & Transparency
-$MAGER is committed to transparency. By linking our **Bithub** and maintaining this **GitHub** repository, we ensure that our development progress is visible to all holders. 
+$MAGER is committed to transparency. By actively managing this **GitHub** repository, we ensure that the project's development remains transparent and can be monitored by all asset holders
 
-**"Keep Mager, Stay Rich."** 🦥💰
+
+**"Keep $Mager, Stay Chill🦥🦥"** 
+**"Don't run to the moon, let the moon come to us! 🚀🌙**
