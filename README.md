@@ -11,7 +11,9 @@ that the most powerful moves are often made while being still. In a world obsess
   
 ​**Global Community**: Building the "Magerian Army" – a worldwide community of long-term holders.
 ​Social Impact: Establishing "Rumah Singgah $MAGER" (The Mager Shelter) to support those in need, proving that kindness and crypto go hand in hand.
+
 ​ **Strategy**
+
 ​Transparency First: Fair launch on pump.fun.
 ​Organic Growth: Community-driven marketing with a focus on relatable, high-quality content.
 ​Sustainability: Real-world utility through our upcoming merchandise store.
