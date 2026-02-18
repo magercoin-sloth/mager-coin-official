@@ -1,5 +1,4 @@
 
-
 # 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
 
 > **"In a world obsessed with the hustle, we find power in being still."**
