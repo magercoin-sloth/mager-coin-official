@@ -47,4 +47,4 @@ $MAGER is committed to transparency. By actively managing this **GitHub** reposi
 
 > **"Keep $MAGER, Stay Chill."** 🦥🦥
 > 
-> **"Don't run to the moon, let the moon come to us!"** 🚀🌙
+> **"Don't run to the moon, let the moon come to us!"** 🚀🌙🦥
