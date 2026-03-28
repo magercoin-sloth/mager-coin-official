@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="1000042150.png" width="400">
+</p> 
 # 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
 
 > "In a world obsessed with the hustle, we find power in being still."
