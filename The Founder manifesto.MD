@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SLOTH KING.png" alt="Sloth King" width="200">
+  <img src="SLOTH KING.png" alt="Sloth King" width="300">
 </p>
 
 
