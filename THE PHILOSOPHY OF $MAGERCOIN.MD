@@ -32,4 +32,4 @@ Join the **Chill Revolution**. In the end, it’s not the fastest runner who win
 | **Impact** | Building a legacy that goes beyond the digital chart. |
 
 ---
-*Built with  by the $MAGER Solo Developer. Established 2026.*
+*Built with  by the SLOTH KING,Solo Developer. Established 2026.*
