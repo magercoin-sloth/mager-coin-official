@@ -27,14 +27,9 @@ Join the **Chill Revolution**. In the end, it’s not the fastest runner who win
 ## 🛠️ The $MAGER Way
 | Core Value | Description |
 | :--- | :--- |
-| **Patience** | We don't rush the process; we trust the build. |
+| **Patience** | We don't rush the process we trust the build. |
 | **Efficiency** | Working smart (and lazy) beats working hard and stressed. |
 | **Impact** | Building a legacy that goes beyond the digital chart. |
-
----
-
-### 🔗 Connect With Us
-[**Twitter/X**](https://x.com/MagerCoin_SOL) | [**Telegram**](https://t.me/MagerCoin01)
 
 ---
 *Built with  by the $MAGER Solo Developer. Established 2026.*
