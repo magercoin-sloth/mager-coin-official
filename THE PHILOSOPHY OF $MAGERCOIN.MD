@@ -34,7 +34,7 @@ Join the **Chill Revolution**. In the end, it’s not the fastest runner who win
 ---
 
 ### 🔗 Connect With Us
-[**Twitter/X**](https://x.com/MagerCoin_SOL) | [**Telegram**](https://t.me/MagerCoin01) (#)
+[**Twitter/X**](https://x.com/MagerCoin_SOL) | [**Telegram**](https://t.me/MagerCoin01)
 
 ---
 *Built with  by the $MAGER Solo Developer. Established 2026.*
