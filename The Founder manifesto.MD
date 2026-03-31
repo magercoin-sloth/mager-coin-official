@@ -1,4 +1,4 @@
-![Sloth King](SLOTH KING.png)
+[Sloth King](SLOTH KING.png)
 
 # 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER 🦥
 
