@@ -25,4 +25,4 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 Unauthorized use, cloning for fraudulent projects, or plagiarism of these assets will be monitored. We reserve the right to take legal action or issue "Take-Down Notices" (DMCA) on platforms such as GitHub, Telegram, and Social Media to protect the integrity of the **$MAGER Ecosystem**.
 
 > **"Chill. Build. Impact. Don't run to the moon, let the moon come to us!"**
-> — *The Sloth King, Founder of PT Lunar Sloth Internasional*
+> — ***The Sloth King***, *Founder of PT Lunar Sloth Internasional*
