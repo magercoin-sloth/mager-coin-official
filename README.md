@@ -57,7 +57,12 @@ $MAGER is committed to transparency. By actively managing this GitHub repository
 
 * **Registered Entity:** PT LUNAR SLOTH INTERNASIONAL, Garut - Indonesia.
 * **Founder & Lead Dev:** SLOTH KING (Solo Developer).
-* **Copyright © 2026:** All rights reserved. All visual assets, including the "Sloth King" character and branding, are the exclusive intellectual property of PT LUNAR SLOTH INTERNASIONAL.
+
+---
+### 🛡️ Legal & Copyright
+This project is protected by the **PT Lunar Sloth Internasional** License. 
+For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE](LICENSE.md) file.
+
 
 ---
 
@@ -65,10 +70,3 @@ $MAGER is committed to transparency. By actively managing this GitHub repository
   <b>"Keep $MAGER, Stay Chill."</b><br>
   <i>Don't run to the moon, let the moon come to us!</i> 🚀🌙
 </p>
-
-
-
----
-### 🛡️ Legal & Copyright
-This project is protected by the **PT Lunar Sloth Internasional** License. 
-For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE](LICENSE.md) file.
