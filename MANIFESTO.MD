@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SLOTH KING.png" alt="Sloth King" width="300">
+  <img src="SLOTH KING.png" alt="Sloth King" width="400">
 </p>
 
 
@@ -53,7 +53,7 @@ Here is the entire journey, condensed into our Official Quote Card. Let this be 
 
 
 <p align="center">
-  <img src="THE ART OF STILLNESS.png" alt="$MAGER Official Quote Card" width="800">
+  <img src="THE ART OF STILLNESS.png" alt="$MAGER Official Quote Card" width="700">
 </p>
 
 
