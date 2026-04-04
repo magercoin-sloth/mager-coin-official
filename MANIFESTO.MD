@@ -1,8 +1,6 @@
 <p align="center">
   <img src="SLOTH KING.png" alt="Sloth King" width="450">
 </p>
-
-
 # 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER 🦥
 
 **Location:** The War Room, Garut - Indonesia  
@@ -52,6 +50,9 @@ $MAGER is built on a foundation of transparency and real-world utility.
 ---
 
 > "I have watched the world rush for ten years, and I have seen them fail. I invite you to win by doing nothing. Stay chill, stay mager."
+
+
+
 
 ---
 
