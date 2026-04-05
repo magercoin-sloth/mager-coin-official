@@ -28,6 +28,10 @@ Every line of code, every visual asset, and every pixel of our **120+ custom sti
 
 ### 🦥 2026: THE ERA OF $MAGER
 
+<p align="center">
+  <img src="$Mager%20Logo%20Official.png" alt="$MAGER Official Logo" width="600">
+</p>
+
 **$MAGER** is the ultimate synthesis of my decade-long experience. The Sloth isn't just a mascot it's a defiance against the stressful, frantic nature of modern trading. We represent **"High-Tier Stillness."** In a world of 1-minute candles and panic sells, we are the ones who sit back, hold with diamond paws, and let the ecosystem work for us.
 
 ### ⏳ "WHY NOW? WHY 2026?"
