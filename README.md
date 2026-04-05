@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="App%20$MAGER.png" width="600">
-</p>
-
 # 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
 
-> "In a world obsessed with the hustle, we find power in being still."
+> **"In a world obsessed with the hustle, we find power in being still."**
 
 $MAGER is a community-driven ecosystem built on **Solana** (via pump.fun). We are transforming the "Mager" (Lazy) culture into a global brand that bridges digital assets with real-world comfort and utility.
 
@@ -19,12 +15,12 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 
 ---
 
-## 📱 $MAGER App: Daily Lifestyle Solution
-The official roadmap for the $MAGER Application, designed to simplify daily life:
-* 💳 **Mobile Credit & Data:** Instant Pulsa & Kuota.
-* ⚡ **Utilities:** Electricity (PLN) and Water (PDAM).
-* 🚆 **Transportation:** Train and Flight ticket bookings.
-* 💸 **Instant Swap:** Secure withdrawal to Indonesian Banks (BCA, BRI, Mandiri, BNI).
+## 📱 The $MAGER App: Daily Lifestyle Solution
+We are not just a token; we are a tool. The $MAGER Application is designed to simplify daily life by integrating Solana assets into the real economy.
+
+🔍 **[READ THE FULL ECOSYSTEM MASTERPLAN & BLUEPRINT](./ECOSYSTEM_MASTERPLAN.md)**
+
+*Detailed technical documentation, app features, and liquidity engine details can be found in our Masterplan file.*
 
 ---
 
@@ -42,8 +38,7 @@ The official roadmap for the $MAGER Application, designed to simplify daily life
 
 ### 🔴 Phase 3: Global Impact
 * **$30M Market Cap:** Establishing **"Rumah Singgah $MAGER"** (Physical HQ in Garut).
-* **$70M - $100M MC:** Official Public App Release.
-* Tier-1 Exchange Listings.
+* **$70M - $100M MC:** Official Public App Release & Tier-1 Exchange Listings.
 
 ---
 
@@ -53,20 +48,13 @@ $MAGER is committed to transparency. By actively managing this GitHub repository
 ---
 
 ## 🏢 Corporate Governance & Intellectual Property
-**$MAGER (MagerCoin)** is an official digital asset project powered and managed by **PT LUNAR SLOTH INTERNASIONAL**.
+$MAGER (MagerCoin) is an official digital asset project powered and managed by **PT LUNAR SLOTH INTERNASIONAL**.
 
-* **Registered Entity:** PT LUNAR SLOTH INTERNASIONAL, Garut - Indonesia.
+* **Future Entity:** PT LUNAR SLOTH INTERNASIONAL, Garut - Indonesia (To be incorporated at $10M Market Cap).
 * **Founder & Lead Dev:** SLOTH KING (Solo Developer).
 
----
 ### 🛡️ Legal & Copyright
-This project is protected by the **PT Lunar Sloth Internasional** License. 
-For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE](LICENSE.md) file.
-
+This project is protected by the **PT Lunar Sloth Internasional License**. For detailed information on usage, permissions, and restrictions, please refer to the `LICENSE` file.
 
 ---
-
-<p align="center">
-  <b>"Keep $MAGER, Stay Chill."</b><br>
-  <i>Don't run to the moon, let the moon come to us!</i> 🚀🌙
-</p>
+**"Keep $MAGER, Stay Chill."** *Don't run to the moon, let the moon come to us!* 🚀🌙
