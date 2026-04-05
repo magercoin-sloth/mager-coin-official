@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="SLOTH KING.png" alt="Sloth King" width="450">
+<img src="Manifesto.png" alt="Sloth King" width="450">
 </p>
+
 
 ***📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER 🦥***
 
