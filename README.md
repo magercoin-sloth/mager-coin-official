@@ -19,7 +19,7 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 We are not just a token; we are a tool. The $MAGER Application is designed to simplify daily life by integrating Solana assets into the real economy.
 
 <p align="center">
-  <img src="$Mager app v.2.png" alt="$MAGER App Ecosystem" width="800">
+  <img src="$Mager%20app%20v.2.png" alt="$MAGER App Ecosystem" width="800">
 </p>
 
 ### ✨ Core App Features
@@ -59,7 +59,7 @@ $MAGER is committed to transparency. By actively managing this GitHub repository
 $MAGER (MagerCoin) is an official digital asset project powered and managed by **PT LUNAR SLOTH INTERNASIONAL**.
 
 * **Future Entity:** PT LUNAR SLOTH INTERNASIONAL, Garut - Indonesia (To be incorporated at $10M Market Cap).
-* **Founder & Lead Dev:** SLOTH KING (Solo Developer).
+* **Founder & Lead Dev:** SLOTH KING / magercoin-sloth (Solo Developer).
 
 ### 🛡️ Legal & Copyright
 This project is protected by the **PT Lunar Sloth Internasional License**. For detailed information on usage, permissions, and restrictions, please refer to the `LICENSE` file.
