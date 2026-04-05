@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Manifesto.png" alt="Sloth King" width="450">
+<img src="Manifesto.png" alt="Sloth King" width="500">
 </p>
 
 
