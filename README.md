@@ -18,7 +18,8 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 ## 📱 The $MAGER App: Daily Lifestyle Solution
 We are not just a token; we are a tool. The $MAGER Application is designed to simplify daily life by integrating Solana assets into the real economy.
 
-🔍 **[READ THE FULL ECOSYSTEM MASTERPLAN & BLUEPRINT](./ECOSYSTEM_MASTERPLAN.md)**
+🔍 **[READ THE FULL ECOSYSTEM MASTERPLAN & BLUEPRINT](ECOSYSTEM_MASTERPLAN.md)**
+
 
 *Detailed technical documentation, app features, and liquidity engine details can be found in our Masterplan file.*
 
