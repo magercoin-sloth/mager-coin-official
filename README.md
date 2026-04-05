@@ -29,8 +29,7 @@ We are not just a token; we are a tool. The $MAGER Application is designed to si
 | **Native Swap & Trade** | Integrated UI for buying, selling, or swapping $MAGER without leaving the app. |
 | **Instant Fiat Exit** | Convert gains to Rupiah/USD and withdraw to your bank account with just a few taps. |
 
-Read our full technical roadmap here: [ECOSYSTEM_MASTERPLAN.md](./ECOSYSTEM_MASTERPLAN.md)
-
+Read our full technical roadmap here: [ECOSYSTEM_MASTERPLAN.md](https://github.com/magercoin-sloth/MagerCoin-Ecosystem/blob/main/ECOSYSTEM_MASTERPLAN.md)
 
 ---
 
