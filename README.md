@@ -3,7 +3,6 @@
 > **"In a world obsessed with the hustle, we find power in being still."**
 
 $MAGER is a community-driven ecosystem built on **Solana** (via pump.fun). We are transforming the "Mager" (Lazy) culture into a global brand that bridges digital assets with real-world comfort and utility.
-
 ---
 
 ## 🚀 Vision & Mission
@@ -30,7 +29,9 @@ We are not just a token; we are a tool. The $MAGER Application is designed to si
 | **Native Swap & Trade** | Integrated UI for buying, selling, or swapping $MAGER without leaving the app. |
 | **Instant Fiat Exit** | Convert gains to Rupiah/USD and withdraw to your bank account with just a few taps. |
 
-Read our full technical roadmap here: ECOSYSTEM_MASTERPLAN.md
+Read our full technical roadmap here: [ECOSYSTEM_MASTERPLAN.md](./ECOSYSTEM_MASTERPLAN.md)
+
+
 ---
 
 ## 💎 Roadmap & Milestones
