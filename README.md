@@ -2,7 +2,9 @@
 
 > **"In a world obsessed with the hustle, we find power in being still."**
 
-$MAGER is a community-driven ecosystem built on **Solana** (via pump.fun). We are transforming the "Mager" (Lazy) culture into a global brand that bridges digital assets with real-world comfort and utility.
+$MAGER is a community-driven ecosystem built on **Solana** (via pump.fun). 
+
+We are transforming the "Mager" (Lazy) culture into a global brand that bridges digital assets with real-world comfort and utility.
 ---
 
 ## 🚀 Vision & Mission
