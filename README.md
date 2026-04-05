@@ -9,19 +9,26 @@ $MAGER is a community-driven ecosystem built on **Solana** (via pump.fun). We ar
 ## 🚀 Vision & Mission
 At $MAGER, we believe the most powerful moves are made while being still. We are building a sanctuary for dreamers, relaxers, and patient holders.
 
-* **The Ecosystem:** Bridging the gap between crypto and real-world utility (Payments for electricity, credit, and more).
+* **The Ecosystem:** Bridging the gap between crypto and real-world utility.
 * **The Brand:** High-quality apparel and "cozy" merchandise for the Magerian lifestyle.
-* **The Impact:** Giving back through the **"The $MAGER Shelter"** (Rumah Singgah $MAGER) initiative.
+* **The Impact:** Giving back through the **"The $MAGER Shelter"** initiative.
 
 ---
 
 ## 📱 The $MAGER App: Daily Lifestyle Solution
 We are not just a token; we are a tool. The $MAGER Application is designed to simplify daily life by integrating Solana assets into the real economy.
 
-🔍 **[READ THE FULL ECOSYSTEM MASTERPLAN & BLUEPRINT](ECOSYSTEM_MASTERPLAN.md)**
+<p align="center">
+  <img src="$Mager app v.2.png" alt="$MAGER App Ecosystem" width="800">
+</p>
 
-
-*Detailed technical documentation, app features, and liquidity engine details can be found in our Masterplan file.*
+### ✨ Core App Features
+| Feature | Description |
+| :--- | :--- |
+| **Real-World Payment** | Pay for electricity (PLN), top up mobile credit (Pulsa), and book travel (Trains/Hotels) directly using $MAGER. |
+| **Hybrid Liquidity Engine** | Settlements are made in fiat (IDR/USD) instantly, ensuring 100% provider acceptance. |
+| **Native Swap & Trade** | Integrated UI for buying, selling, or swapping $MAGER without leaving the app. |
+| **Instant Fiat Exit** | Convert gains to Rupiah/USD and withdraw to your bank account with just a few taps. |
 
 ---
 
