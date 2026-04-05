@@ -2,9 +2,8 @@
 
 > **"In a world obsessed with the hustle, we find power in being still."**
 
-$MAGER is a community-driven ecosystem built on **Solana** (via pump.fun). 
+$MAGER is a community-driven ecosystem built on **Solana** (via pump.fun). We are transforming the "Mager" (Lazy) culture into a global brand that bridges digital assets with real-world comfort and utility.
 
-We are transforming the "Mager" (Lazy) culture into a global brand that bridges digital assets with real-world comfort and utility.
 ---
 
 ## 🚀 Vision & Mission
@@ -20,7 +19,7 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 We are not just a token; we are a tool. The $MAGER Application is designed to simplify daily life by integrating Solana assets into the real economy.
 
 <p align="center">
-  <img src="$Mager%20app%20v.2.png" alt="$MAGER App Ecosystem" width="800">
+  <img src="$Mager app v.2.png" alt="$MAGER App Ecosystem" width="800">
 </p>
 
 ### ✨ Core App Features
@@ -31,7 +30,7 @@ We are not just a token; we are a tool. The $MAGER Application is designed to si
 | **Native Swap & Trade** | Integrated UI for buying, selling, or swapping $MAGER without leaving the app. |
 | **Instant Fiat Exit** | Convert gains to Rupiah/USD and withdraw to your bank account with just a few taps. |
 
-Read our full technical roadmap here: [ECOSYSTEM_MASTERPLAN.md](https://github.com/magercoin-sloth/MagerCoin-Ecosystem/blob/main/ECOSYSTEM_MASTERPLAN.md)
+> 🔍 **Read our full technical roadmap here:** [ECOSYSTEM_MASTERPLAN.md](https://github.com/magercoin-sloth/MagerCoin-Ecosystem/blob/main/ECOSYSTEM_MASTERPLAN.md)
 
 ---
 
@@ -65,8 +64,7 @@ $MAGER (MagerCoin) is an official digital asset project powered and managed by *
 * **Founder & Lead Dev:** SLOTH KING / magercoin-sloth (Solo Developer).
 
 ### 🛡️ Legal & Copyright
-This project is protected by the **PT Lunar Sloth Internasional License**. For detailed information on usage, permissions, and restrictions, please refer to the refer to the [LICENSE.md](https://github.com/magercoin-sloth/mager-coin-official/blob/main/LICENSE.md) file.
-
+This project is protected by the **PT Lunar Sloth Internasional License**. For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE.md](./LICENSE.md) file.
 
 ---
 **"Keep $MAGER, Stay Chill."** *Don't run to the moon, let the moon come to us!* 🚀🌙
