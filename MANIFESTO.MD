@@ -45,7 +45,6 @@ Here is the entire journey, condensed into our Official Quote Card. Let this be 
 ‎<p align="center">
 ‎  <img src="THE ART OF STILLNESS.png" alt="$MAGER Official Quote Card" width="700">
 ‎</p>
----
 
 ## 💎 THE 24,400% LESSON: THE ART OF STILLNESS
 > *"If you can’t be still, you can’t be rich."* 🦥🧘‍♂️
