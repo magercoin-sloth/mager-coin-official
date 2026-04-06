@@ -1,8 +1,8 @@
 # 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER 🦥
 
-‎<p align="center">
-‎<img src="Manifesto.png" alt="Sloth King" width="100%">
-‎</p>
+<p align="center">
+  <img src="Manifesto.png" alt="The Sloth King Manifesto" width="100%">
+</p>
 
 > **Location:** The War Room, Garut - Indonesia  
 > **Philosophy:** *"True wealth is a marathon run at a sloth's pace."*
@@ -20,33 +20,32 @@ For nearly a decade, I operated as a silent developer and market strategist. Whi
 Every line of code, every visual asset, and every pixel of our **120+ custom stickers** was handcrafted by me to ensure a legacy, not just a token.
 
 ## 🦥 2026: THE ERA OF $MAGER
-‎<p align="center">
-‎  <img src="$Mager%20Logo%20Official.png" alt="$MAGER Official Logo" width="600">
-‎</p>
+<p align="center">
+  <img src="$Mager%20Logo%20Official.png" alt="$MAGER Official Logo" width="500">
+</p>
+
 **$MAGER** is the ultimate synthesis of my decade-long experience. The Sloth isn't just a mascot; it's a defiance against the stressful, frantic nature of modern trading. We represent **"High-Tier Stillness."** In a world of 1-minute candles and panic sells, we are the ones who sit back, hold with diamond paws, and let the ecosystem work for us.
 
 ### ⏳ "WHY NOW? WHY 2026?"
-Many ask, why did I wait until **2026** to bring **$MAGER** to life? The answer is simple: **Maturity.**
+Many ask, *why did I wait until 2026?* The answer is simple: **Maturity.**
 
-For years, I fought a war against my own ego. I chose not to rush into temporary trends. Instead, I spent my time learning, observing, and refining this vision until it was truly ready. **$MAGER** is not an impulsive project; it is the fruit of long-term patience and the determination to grow beyond my old limits. 
-
-*Today, that ego has been conquered. What remains is pure dedication.*
+For years, I fought a war against my own ego. I chose not to rush into temporary trends. Instead, I spent my time learning, observing, and refining this vision until it was truly ready. **$MAGER** is not an impulsive project; it is the fruit of long-term patience. 
 
 ---
 
 ## 💎 THE 24,400% LESSON: THE ART OF STILLNESS
+<p align="center">
+  <img src="THE%20ART%20OF%20STILLNESS.png" alt="The Art of Stillness Receipt" width="750">
+</p>
 
-‎<p align="center">
-‎  <img src="THE ART OF STILLNESS.png" alt="$MAGER Official Quote Card" width="700">
-‎</p>
 > *"If you can’t be still, you can’t be rich."* 🦥🧘‍♂️
 
-Back in **2016**, during the early days of the **Bitcoin.co.id** era, I was a "faucet grinder." I collected digital dust until I managed to gather **102 DOGE**. At that time, it was worth a mere **Rp 4,488** — less than **$0.30**.
+Back in **2016**, during the early days of the **Bitcoin.co.id** era (long before the massive **rebranding to Indodax in 2018**), I was a "faucet grinder." I collected digital dust until I managed to gather **102 DOGE**. At that time, it was worth a mere **Rp 4,488** — less than **$0.30**.
 
 But I did the hardest thing to do in this market: **I STAYED STILL.**
 
 ### 🧘‍♂️ The "Mager" Strategy
-I was "Mager." I forgot I even owned it. I let those coins sleep for **5 long years** while the rest of the world panicked. When I finally "woke up" in **2021**, that forgotten spark had turned into a **Rp 1.1 Million** victory.
+I was "Mager." I forgot I even owned it. I let those coins sleep for **5 long years** while the rest of the world panicked through every dip and crash. When I finally "woke up" in **2021**, that forgotten spark had turned into a **Rp 1.1 Million** victory.
 
 **📈 The Logic?** That is a **24,400% gain**. This is the living proof that in crypto: **"Stillness is Profit."**
 
@@ -55,11 +54,12 @@ I was "Mager." I forgot I even owned it. I let those coins sleep for **5 long ye
 ## 🚀 THE MISSION & IMPACT
 $MAGER is built on a foundation of transparency and real-world utility:
 
-* 🛡️ **Solo Veteran Integrity:** A dev survived since 2016 isn't here for a quick exit—I'm here to build a kingdom.
+* 🛡️ **Solo Veteran Integrity:** A dev who survived since 2016 isn't here for a quick exit—I'm here to build a kingdom.
 * 💎 **The 2.7% Dev Commitment:** I hold only a tiny fraction of the supply because we grow together.
 * 🏠 **Lunar Sloth Infrastructure:** Establishing **PT Lunar Sloth Internasional** and funding the **$MAGER Shelter** in Garut.
 
-*"I have watched the world rush for ten years, and I have seen them fail. I invite you to win by doing nothing. Stay chill, stay mager."*
-
 ---
-**— SLOTH KING** *Solo Developer & Crypto Veteran Since 2016*
+<p align="center">
+  <b>— SLOTH KING</b><br>
+  <i>Solo Developer & Crypto Veteran Since 2016</i>
+</p>
