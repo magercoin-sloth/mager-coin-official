@@ -1,4 +1,5 @@
 # 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER 🦥
+
 ‎<p align="center">
 ‎<img src="Manifesto.png" alt="Sloth King" width="100%">
 ‎</p>
