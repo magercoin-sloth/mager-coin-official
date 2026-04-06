@@ -41,7 +41,6 @@ Today, that ego has been conquered. What remains is a pure dedication to buildin
 
 ## 🖼️ THE VISUAL RECEIPTS
 Here is the entire journey, condensed into our Official Quote Card. Let this be a reminder that patience isn't just a virtue—it's a wealth strategy.
-
 ‎<p align="center">
 ‎  <img src="THE ART OF STILLNESS.png" alt="$MAGER Official Quote Card" width="700">
 ‎</p>
