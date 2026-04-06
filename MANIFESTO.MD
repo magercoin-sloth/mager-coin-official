@@ -10,7 +10,7 @@
 ## 🕰️ 2016: THE AWAKENING
 My journey didn't start yesterday with a pump-and-dump scheme. I’ve been in the trenches since **2016**. I witnessed the birth of giants, survived the harshest crypto winters, and watched thousands of projects vanish into the void because they were built on greed, not grit.
 
-> *The moon doesn't go anywhere—only those who rush do."*
+> *The moon doesn't go anywhere—only those who rush do.*
 
 ---
 
