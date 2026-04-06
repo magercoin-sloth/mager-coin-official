@@ -29,7 +29,9 @@ Every line of code, every visual asset, and every pixel of our **120+ custom sti
 ### ⏳ "WHY NOW? WHY 2026?"
 Many ask, *why did I wait until 2026?* The answer is simple: **Maturity.**
 
-For years, I fought a war against my own ego. I chose not to rush into temporary trends. Instead, I spent my time learning, observing, and refining this vision until it was truly ready. **$MAGER** is not an impulsive project; it is the fruit of long-term patience. 
+For years, I fought a war against my own ego. I chose not to rush into temporary trends. Instead, I spent my time learning, observing, and refining this vision until it was truly ready. **$MAGER** is not an impulsive project; it is the fruit of long-term patience.and the determination to grow beyond my old limits.
+
+Today, that ego has been conquered. What remains is a pure dedication to building a solid ecosystem for all of us. This is the final evolution of my 10-year journey. 
 
 ---
 
@@ -46,6 +48,9 @@ But I did the hardest thing to do in this market: **I STAYED STILL.**
 
 ### 🧘‍♂️ The "Mager" Strategy
 I was "Mager." I forgot I even owned it. I let those coins sleep for **5 long years** while the rest of the world panicked through every dip and crash. When I finally "woke up" in **2021**, that forgotten spark had turned into a **Rp 1.1 Million** victory.
+
+**📉By the Numbers?**
+It might seem small to the whales who trade in billions.
 
 **📈 The Logic?** That is a **24,400% gain**. This is the living proof that in crypto: **"Stillness is Profit."**
 
