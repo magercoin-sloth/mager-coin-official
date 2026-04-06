@@ -21,9 +21,14 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 
 # The $MAGER App: Daily Lifestyle Solution
 
+
 <p align="center">
   <img src="$Mager app v.2.png" alt="$MAGER App Ecosystem" width="800">
 </p>
+
+<div align="center">
+  <img src="$Mager app v.3.png" alt="Lunar Sloth Pay App Preview" width="100%">
+</div>
 
 > **"We are not just a token; we are a functional ecosystem."**
 
