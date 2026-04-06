@@ -40,7 +40,7 @@ For years, I fought a war against my own ego. I chose not to rush into temporary
 
 > *"If you can’t be still, you can’t be rich."* 🦥🧘‍♂️
 
-Back in **2016**, during the early days of the **Bitcoin.co.id** era (long before the massive **rebranding to Indodax in 2018**), I was a "faucet grinder." I collected digital dust until I managed to gather **102 DOGE**. At that time, it was worth a mere **Rp 4,488** — less than **$0.30**.
+Back in **2016**, during the early days of the **Bitcoin.co.id** era (long before the massive **rebranding to Indodax in 2018**), I was a "faucet grinder." I collected digital dust until I managed to gather **102 DOGE**. At that time, it was worth a mere **Rp 4,488** — less than **$0.30**.. It wasn't even enough to buy a cup of coffee.
 
 But I did the hardest thing to do in this market: **I STAYED STILL.**
 
