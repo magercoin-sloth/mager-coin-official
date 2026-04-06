@@ -56,7 +56,7 @@ It might seem small to the whales who trade in billions.
 That is a **24,400% gain**. This is the living proof that in crypto: **"Stillness is Profit."**
 The Soul of $MAGER
 
-***📜The digital receipts ***
+**📜The digital receipts **
 from the old domain might be gone, buried under 10 years of email history, but the lesson is burned into my soul.
 
 $MAGER was born from this exact philosophy.
