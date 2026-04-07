@@ -79,16 +79,6 @@ We aren't here for the 10-minute hype. We are building an ecosystem where:
 I held DOGE for 5 years just by being still. Now, I am building **$MAGER** for the next decade.
 
 **Are you still with me?** 🦥🌕
-
----
-
-## 🚀 THE MISSION & IMPACT
-$MAGER is built on a foundation of transparency and real-world utility.
-
-* 🛡️ **Solo Veteran Integrity:** A dev who has survived since 2016 isn't here for a quick exit—I'm here to build a kingdom.
-* 💎 **The 2.7% Dev Commitment:** I hold only a tiny fraction of the supply because we grow together or we don't grow at all.
-* 🏠 **Lunar Sloth Infrastructure:** Beyond the chart, we are establishing **PT Lunar Sloth Internasional**, funding the **$MAGER Shelter** to provide digital education and social support in the real world.
-
 ---
 
 **— SLOTH KING** *Solo Developer & Crypto Veteran Since 2016*
