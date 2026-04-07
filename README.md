@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="100%">
+  <img src="$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="1200">
 </p>
 
 # 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
