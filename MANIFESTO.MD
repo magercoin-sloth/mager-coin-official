@@ -2,7 +2,7 @@
 ‎<img src="Manifesto.png" alt="Sloth King" width="100%">
 ‎</p>
 
-# 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER 🦥
+# 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER
 **Location:** The War Room, Garut - Indonesia  
 >**Philosophy:** *"True wealth is a marathon run at a sloth's pace."*
 ---
