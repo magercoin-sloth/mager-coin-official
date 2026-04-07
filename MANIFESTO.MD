@@ -56,10 +56,10 @@ This phone is more than just a tool; it is a silent witness to sleepless nights 
 ---
 
 #### 📸 THE PROOF OF GRIT: FROM POCKET TO GITHUB
-
 <p align="center">
-  <img src=".github/assets/RESILIENCE_BADGE.jpg" alt="Proof of Grit - 6.5-Inch Engine" width="100%">
+  <img src="RESILIENCE_BADGE.jpg" alt="Proof of Grit - 6.5-Inch Engine" width="100%">
 </p>
+
 
 <p align="center">
   <em>The workstation of a $10M vision. Handcrafted 209+ commits from a 2021 smartphone. No excuses, just build.</em>
