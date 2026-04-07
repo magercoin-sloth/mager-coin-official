@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="1200">
+  <img src="$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="100%">
 </p>
 
 # 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
@@ -79,7 +79,7 @@ $MAGER’s valuation is decoupled from pure hype. Our growth is pegged to the **
 ## 💎 Roadmap & Milestones
 
 ### 🟢 Phase 1: The Stillness Begins
-* Fair Launch on **Pump.fun** (Bonding Curve: 76 SOL)
+* Fair Launch on **Pump.fun**
 * Building the **"Magerian Army"** Global Community
 * 120+ Exclusive Sticker Sets for Community Shilling
 
