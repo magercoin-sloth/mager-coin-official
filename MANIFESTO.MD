@@ -78,7 +78,6 @@ We aren't here for the 10-minute hype. We are building an ecosystem where:
 
 I held DOGE for 5 years just by being still. Now, I am building **$MAGER** for the next decade.
 
-**Are you still with me?**. 🦥🌕
+**Are you still with me? 🦥🌕**
 ---
-
 **— SLOTH KING** *Solo Developer & Crypto Veteran Since 2016*
