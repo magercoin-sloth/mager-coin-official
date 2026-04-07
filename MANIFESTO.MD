@@ -34,6 +34,25 @@ Today, that ego has been conquered. What remains is a pure dedication to buildin
 
 > "I have watched the world rush for ten years, and I have seen them fail. I invite you to win by doing nothing. Stay chill, stay mager."
 
+## 📱 THE 6.5-INCH ENGINE: A WAR ON A SMALL SCREEN
+
+> "They asked me, 'Where is your workstation?'  
+> I showed them my pocket."
+
+### 🛠️ The Tool vs. The Vision
+Over the past three months, every single line of code in this GitHub repository, every pixel of the $MAGER visual assets, and every strategic layer of this Manifesto did not emerge from a high-spec PC or a cold corporate office. Everything you see was handcrafted on a **mobile device from 2021.**
+
+### 🌌 Beyond Constraints
+On this 6.5-inch screen, a giant ecosystem was designed. While others use their devices for instant consumption, I used mine to build **Future Infrastructure.** I have proven that the limitations of your tools are never a barrier to the vastness of your vision. 
+
+### 💡 Why This Matters?
+If I can lay the foundation for **PT Lunar Sloth Internasional** and push **209+ commits** to GitHub using nothing but an aging smartphone, imagine the scale of what we will build when **$MAGER** hits a $10M Market Cap and grants us access to the world's most elite technology. 
+
+### 🛡️ The Resilience Badge
+This phone is more than just a tool; it is a silent witness to sleepless nights in Garut. It is living proof that the **"Sloth King"** doesn't need luxury to start a revolution. We start where we are, with what we have, doing what we can.
+
+> *"If the mind is vast, the screen size doesn't matter."*
+
 ---
 
 ## 🖼️ THE VISUAL RECEIPTS
