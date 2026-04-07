@@ -3,7 +3,6 @@
 ‎</p>
 
 # 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER 🦥
-
 **Location:** The War Room, Garut - Indonesia  
 >**Philosophy:** *"True wealth is a marathon run at a sloth's pace."*
 ---
