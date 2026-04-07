@@ -105,8 +105,9 @@ $MAGER (MagerCoin) is an official digital asset project powered and managed by *
 * **Founder & Lead Dev:** SLOTH KING / magercoin-sloth (Solo Developer).
 * **Entity Status:** PT LUNAR SLOTH INTERNASIONAL to be fully incorporated at $10M Market Cap milestone.
 
-‎ 🛡️ Legal & Copyright
-‎This project is protected by the **PT Lunar Sloth Internasional License**. For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE.md](./LICENSE.md) file.
+‎### ⚖️ Legal & Copyright
+This project and its associated intellectual properties are protected under **PT Lunar Sloth Internasional**. 
+For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE.md](LICENSE.md) file.
 
 ---
 **"Keep $MAGER, Stay Chill."** *Don't run to the moon, let the moon come to us!* 🚀🌙
