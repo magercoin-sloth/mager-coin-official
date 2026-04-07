@@ -55,6 +55,18 @@ This phone is more than just a tool; it is a silent witness to sleepless nights 
 
 ---
 
+#### 📸 THE PROOF OF GRIT: FROM POCKET TO GITHUB
+
+<p align="center">
+  <img src=".github/assets/RESILIENCE_BADGE.jpg" alt="Proof of Grit - 6.5-Inch Engine" width="100%">
+</p>
+
+<p align="center">
+  <em>The workstation of a $10M vision. Handcrafted 209+ commits from a 2021 smartphone. No excuses, just build.</em>
+</p>
+
+---
+
 ## 🖼️ THE VISUAL RECEIPTS
 Here is the entire journey, condensed into our Official Quote Card. Let this be a reminder that patience isn't just a virtue—it's a wealth strategy.
 ‎<p align="center">
