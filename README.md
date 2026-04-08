@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="1200">
+  <img src="assets/$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="1200">
 </p>
 
 # 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
@@ -22,12 +22,12 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 # The $MAGER App: Daily Lifestyle Solution
 
 <p align="center">
-  <img src="$Mager%20app%20v.2.png" alt="$MAGER App Ecosystem" width="800">
-</p>
+  <img src="assets/$Mager%20app%20v.2.png" alt="$MAGER App Ecosystem" width="800">
+</p> 
 
 <div align="center">
-  <img src="$Mager%20app%20v.3.png" alt="Lunar Sloth Pay App Preview" width="100%">
-</div>
+  <img src="assets/$Mager%20app%20v.3.png" alt="Lunar Sloth Pay App Preview" width="100%">
+</div> 
 
 > **"We are not just a token; we are a functional ecosystem."**
 
