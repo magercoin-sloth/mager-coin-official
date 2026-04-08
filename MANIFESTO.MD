@@ -64,8 +64,8 @@ This phone is more than just a tool; it is a silent witness to sleepless nights 
 <p align="center">
   <em>The workstation of a $10M vision. Handcrafted 209+ commits from a 2021 smartphone. No excuses, just build.</em>
 </p>
----
-## 🛑 Why No Presale? (The $MAGER Manifesto)
+
+## 🛑 Why No Presale?
 
 In a market where **96% of traders lose money** due to "insider dumps," "predatory presales," and "garbage tokens," $MAGER chooses a different path.
 
