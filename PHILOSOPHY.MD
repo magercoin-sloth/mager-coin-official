@@ -1,6 +1,6 @@
-# 🌿 THE PHILOSOPHY OF $MAGERCOIN 🦥☕
+![$MAGER Mastermind](assets/Mastermind.png)
 
-![$MAGER Mastermind](Mastermind.png)
+# 🌿 THE PHILOSOPHY OF $MAGERCOIN 🦥☕
 
 > **"In a world of runners, the Sloth is the only one who has already arrived."** 🦥🌑
 
