@@ -1,5 +1,5 @@
 <p align="center">
-‎<img src="Manifesto.png" alt="Sloth King" width="100%">
+‎<img src="assets/Manifesto.png" alt="Sloth King" width="100%">
 ‎</p>
 
 # 📜 THE FOUNDER’S MANIFESTO: FROM 2016 TO $MAGER
@@ -57,7 +57,7 @@ This phone is more than just a tool; it is a silent witness to sleepless nights 
 
 #### 📸 THE PROOF OF GRIT: FROM POCKET TO GITHUB
 <p align="center">
-  <img src="RESILIENCE_BADGE.jpg" alt="Proof of Grit - 6.5-Inch Engine" width="100%">
+  <img src="assets/RESILIENCE_BADGE.jpg" alt="Proof of Grit - 6.5-Inch Engine" width="100%">
 </p>
 
 
@@ -93,7 +93,7 @@ By launching directly on Pump.fun and moving to DEX organically, we ensure that 
 ## 🖼️ THE VISUAL RECEIPTS
 Here is the entire journey, condensed into our Official Quote Card. Let this be a reminder that patience isn't just a virtue—it's a wealth strategy.
 ‎<p align="center">
-‎  <img src="THE ART OF STILLNESS.png" alt="$MAGER Official Quote Card" width="700">
+‎  <img src="assets/THE ART OF STILLNESS.png" alt="$MAGER Official Quote Card" width="700">
 ‎</p>
 
 ## 💎 THE 24,400% LESSON: THE ART OF STILLNESS
