@@ -92,6 +92,10 @@ $MAGER’s valuation is decoupled from pure hype. Our growth is pegged to the **
 * **$30M Market Cap:** Establishing Physical HQ in Garut, Indonesia.
 * **$70M - $100M MC:** Official Public App Release & Tier-1 Exchange Listings.
 
+​🔍 **Want to know our technical roadmap?** [Read Masterplan](https://github.com/magercoin-sloth/MagerCoin-Ecosystem)
+
+❤️ **Learn about our social impact?** [Visit Mager Shelter](https://github.com/magercoin-sloth/mager-shelter)
+
 ---
 
 ## 🛡️ Security & Transparency
