@@ -73,7 +73,7 @@ $MAGER’s valuation is decoupled from pure hype. Our growth is pegged to the **
 
 **The Future of Solana-based Payments.** Sleek, Simple, and Productive. Coming soon to your smartphone.
 
-‎> 🔍 **Read our full technical roadmap here:** [ECOSYSTEM_MASTERPLAN.md](https://github.com/magercoin-sloth/MagerCoin-Ecosystem/blob/main/ECOSYSTEM_MASTERPLAN.md) 
+‎ 🔍 **Read our full technical roadmap here:** [ECOSYSTEM_MASTERPLAN.md](https://github.com/magercoin-sloth/MagerCoin-Ecosystem/blob/main/ECOSYSTEM_MASTERPLAN.md) 
 ---
 
 ## 💎 Roadmap & Milestones
