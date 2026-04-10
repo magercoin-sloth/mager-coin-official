@@ -57,7 +57,7 @@ This phone is more than just a tool; it is a silent witness to sleepless nights 
 
 #### 📸 THE PROOF OF GRIT: FROM POCKET TO GITHUB
 <p align="center">
-  <img src="assets/RESILIENCE_BADGE.jpg" alt="Proof of Grit - 6.5-Inch Engine" width="100%">
+  <img src="assets/RESILIENCE_BADGE.jpg" alt="Proof of Grit - 6.5-Inch Engine" width="400">
 </p>
 
 
