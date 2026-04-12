@@ -99,7 +99,7 @@ $MAGER’s valuation is decoupled from pure hype. Our growth is pegged to the **
 
 ❤️ **Learn about our social impact?** [Visit Mager Shelter](https://github.com/magercoin-sloth/mager-shelter)
 
-📜 Read the story behind the project: [The Odyssey of the Sloth King](https://github.com/magercoin-sloth/mager-shelter/blob/main/THE_FOUNDER_JOURNEY.md)
+📜 **Read the story behind the project:** [The Odyssey of the Sloth King](https://github.com/magercoin-sloth/mager-shelter/blob/main/THE_FOUNDER_JOURNEY.md)
 
 ---
 
