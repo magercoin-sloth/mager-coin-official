@@ -62,6 +62,21 @@ $MAGER’s valuation is decoupled from pure hype. Our growth is pegged to the **
 * **Target:** 10,000+ Early Adopters at Launch.
 * **Phase:** Transitioning from speculative asset to a service-backed giant.
 
+### 4. Strategic Buyback & Burn (Monthly Deflation)
+
+Upon reaching a stable ecosystem threshold of **500,000+ active users**, PT Lunar Sloth Internasional will implement a **Monthly Strategic Burn**.
+
+* **Mechanism:** A percentage of the company’s **net profit** (derived from App services & fees) will be used to buy back $MAGER from the open market.
+* **Impact:** These tokens are permanently destroyed, accelerating scarcity and rewarding long-term holders. This ensures that the token's value is directly linked to the **Company's Revenue Success**, not just market speculation.
+
+
+### 5. The Perpetual Growth Loop (The Flywheel Effect)
+
+The final stage of our economic model is the **Self-Sustaining Expansion**. As the supply shrinks through usage (Point 1) and strategic burns (Point 4), the increasing scarcity drives higher market confidence. 
+
+* **The Result:** Higher valuation attracts more developers and merchants to the **PT Lunar Sloth** ecosystem, which in turn brings more users. 
+* **Conclusion:** This creates a perpetual cycle where **Utility creates Scarcity, and Scarcity funds further Utility.** We are not just building a token; we are building a sovereign digital economy.
+
 ---
 
 ## 📈 Financial Projection & Tokenomics
