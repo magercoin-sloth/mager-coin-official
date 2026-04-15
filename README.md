@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="1200">
+  <img src="assets/$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="100%">
 </p>
 
 # 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
@@ -46,47 +46,49 @@ The $MAGER Application is engineered to bridge the gap between speculative digit
 | **Instant Fiat Exit** | Direct-to-Bank withdrawal system with Kolek-1 compliant banking standards. | Convert gains to spendable cash in minutes. |
 
 ---
+# 📈 Strategic Rationale: The Economic Flywheel
 
-## 🏛️ Strategic Rationale: The Economic Flywheel
-
-The $MAGER ecosystem is built on a **Deflationary Utility Model**. Unlike traditional tokens, our value is driven by **Realized Adoption**.
-
-### 1. Systematic Supply Reduction (The Velocity Sink)
-Every transaction within the $MAGER App acts as a liquidity magnet. As users commit tokens for services (PLN, Pulsa, Travel), these tokens are effectively removed from the DEX circulating supply. This creates a perpetual **Supply Shock**—as the user base grows, the tradable float shrinks.
-
-### 2. Eliminating On-Chain Friction
-The primary barrier to mass adoption is the complexity of "Off-Ramping." By providing an **Instant Fiat Exit**, $MAGER captures the "Smart Money" demographic—investors who value liquidity and real-world exit strategies. 
-
-### 3. Sustainable Value Accrual
-$MAGER’s valuation is decoupled from pure hype. Our growth is pegged to the **Utility Adoption Rate**. 
-* **Target:** 10,000+ Early Adopters at Launch.
-* **Phase:** Transitioning from speculative asset to a service-backed giant.
-
-### 4. Strategic Buyback & Burn (Monthly Deflation)
-
-Upon reaching a stable ecosystem threshold of **500,000+ active users**, PT Lunar Sloth Internasional will implement a **Monthly Strategic Burn**.
-
-* **Mechanism:** A percentage of the company’s **net profit** (derived from App services & fees) will be used to buy back $MAGER from the open market.
-* **Impact:** These tokens are permanently destroyed, accelerating scarcity and rewarding long-term holders. This ensures that the token's value is directly linked to the **Company's Revenue Success**, not just market speculation.
-
-
-### 5. The Perpetual Growth Loop (The Flywheel Effect)
-
-The final stage of our economic model is the **Self-Sustaining Expansion**. As the supply shrinks through usage (Point 1) and strategic burns (Point 4), the increasing scarcity drives higher market confidence. 
-
-* **The Result:** Higher valuation attracts more developers and merchants to the **PT Lunar Sloth** ecosystem, which in turn brings more users. 
-* **Conclusion:** This creates a perpetual cycle where **Utility creates Scarcity, and Scarcity funds further Utility.** We are not just building a token; we are building a sovereign digital economy.
+The **$MAGER** ecosystem is built on a **Deflationary Utility Model**. Unlike traditional tokens, our value is driven by **Realized Adoption** and **Real Yield**.
 
 ---
 
-## 📈 Financial Projection & Tokenomics
-* **Total Supply:** 1,000,000,000 $MAGER (Fixed).
-* **Developer/Operational Commitment:** 2.795% (Strategic alignment & long-term growth).
-* **Market Distribution:** 97.205% (Pure organic decentralization).
+### 1. Systematic Supply Reduction (The Velocity Sink)
+Every transaction within the **$MAGER App** acts as a liquidity magnet. As users commit tokens for services (PLN, Pulsa, Travel), these tokens are effectively removed from the DEX circulating supply. This creates a perpetual **Supply Shock**—as the user base grows, the tradable float shrinks.
 
-> **Status:** *Building in silence. Delivering in code.* 🛠️💎
+### 2. Real Yield Mechanism
+Our valuation is decoupled from pure hype. $MAGER implements a **Real Yield** model where the token's value is supported by:
+* **Tangible Revenue:** Income generated from real-world application fees (PPOB, Fiat-Gateway).
+* **Non-Inflationary Growth:** Value is derived from actual service usage, not from minting new tokens.
 
-**The Future of Solana-based Payments.** Sleek, Simple, and Productive. Coming soon to your smartphone.
+### 3. Eliminating On-Chain Friction
+The primary barrier to mass adoption is the complexity of "Off-Ramping." By providing an **Instant Fiat Exit**, $MAGER captures the "Smart Money" demographic—investors who value liquidity and real-world exit strategies.
+
+### 4. Strategic Buyback & Burn (Monthly Deflation)
+Upon reaching a stable ecosystem threshold of **500,000+ active users**, **PT Lunar Sloth Internasional** will implement a Monthly Strategic Burn:
+* **Mechanism:** A percentage of the company’s **net profit** (derived from App services & fees) will be used to buy back $MAGER from the open market.
+* **Impact:** These tokens are permanently destroyed, accelerating scarcity and rewarding long-term holders. This ensures that the token's value is directly linked to the **Company's Revenue Success**, not just market speculation.
+
+### 5. The Perpetual Growth Loop (The Flywheel Effect)
+This creates a self-sustaining expansion where:
+> **Utility creates Scarcity, and Scarcity funds further Utility.**
+
+---
+
+### 📊 Tokenomics at a Glance
+
+| Metric | Details |
+| :--- | :--- |
+| **Total Supply** | 1,000,000,000 $MAGER (Fixed) |
+| **Market Distribution** | 97.205% (Organic Decentralization) |
+| **Dev/Operational** | 2.795% (Long-term Alignment) |
+| **Status** | Building in silence. Delivering in code. 🛠️💎 |
+
+---
+
+## The Future of Solana-based Payments.
+### *Sleek, Simple, and Productive.*
+**Coming soon to your smartphone.**
+
 
 ‎ 🔍 **Read our full technical roadmap here:** [ECOSYSTEM_MASTERPLAN.md](https://github.com/magercoin-sloth/MagerCoin-Ecosystem/blob/main/ECOSYSTEM_MASTERPLAN.md) 
 ---
