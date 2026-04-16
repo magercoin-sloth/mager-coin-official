@@ -102,7 +102,7 @@ The final stage of our economic model is the **Self-Sustaining Expansion**. As t
 * 120+ Exclusive Sticker Sets for Community Shilling
 
 ### 🟡 Phase 2: The Cozy Economy
-* **$15M Market Cap:** Official Team Recruitment (PT Lunar Sloth Internasional).
+* **$10M Market Cap:** Official Team Recruitment (PT Lunar Sloth Internasional).
 * Launch of **$MAGER Merch Store** (Premium Hats, Hoodies, Leather Jackets).
 * Strategic Partnerships with Real-world Lifestyle Brands.
 
