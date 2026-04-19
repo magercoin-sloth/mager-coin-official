@@ -121,6 +121,8 @@ The final stage of our economic model is the **Self-Sustaining Expansion**. As t
 
 🧭 **Read the story behind the project:** [The Odyssey of the Sloth King](https://github.com/magercoin-sloth/mager-shelter/blob/main/THE_FOUNDER_JOURNEY.md)
 
+📖 **Please read the Magercoin Philosophy here:** [PHILOSOPHY_MAGERCOIN.md](./PHILOSOPHY_MAGERCOIN.md) 🌿
+
 ---
 
 ## 🛡️ Security & Transparency
