@@ -79,7 +79,7 @@ Most projects use Presales to grant "Whales" and "Insiders" a cheaper entry pric
 To the "devs" who launch 10 tokens a day just to rug honest people: **Your time is over.** $MAGER is built on High-Tier Stillness. We spent 3 months building infrastructure, legal frameworks (PT Lunar Sloth Internasional), and real-world utility while you were busy writing scam scripts. We don't need a presale because our **Proof of Work** (check our commits!) is our funding.
 
 ### 3. We Don't Beg, We Build 🛠️
-A presale is often a sign of a developer who cannot afford their own vision. We have already handcrafted the logo, the 120+ stickers, the security bots, and the core code before asking for a single penny. 
+A presale is often a sign of a developer who cannot afford their own vision. We have already handcrafted the logo, the 450+ stickers, the security bots, and the core code before asking for a single penny. 
 **We are not here to take your money; we are here to build an empire that funds the $MAGER Shelter.**
 
 ### 4. Integrity is Our Liquidity 🛡️
