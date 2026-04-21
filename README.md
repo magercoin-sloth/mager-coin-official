@@ -2,9 +2,11 @@
   <img src="assets/$Mager%20app%20v.1.png" alt="$MAGER Ecosystem Overview Banner" width="100%">
 </p>
 
-# 🦥 $MAGER (MagerCoin) - The Art of Productive Stillness
+<h1 align="center">🦥 $MAGER (MagerCoin) - The Art of Productive Stillness</h1>
 
-> **"In a world obsessed with the hustle, we find power in being still."**
+<p align="center">
+  <strong>"In a world obsessed with the hustle, we find power in being still."</strong>
+</p>
 
 $MAGER is a utility-driven ecosystem built on **Solana** (via pump.fun). We are transforming the "Mager" (Lazy) culture into a global brand that bridges digital assets with real-world comfort and utility.
 
