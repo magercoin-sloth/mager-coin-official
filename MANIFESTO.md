@@ -17,7 +17,7 @@ My journey didn't start yesterday with a pump-and-dump scheme. I’ve been in th
 ## 🏗️ 2016 - 2025: THE SILENT ARCHITECT
 For nearly a decade, I operated as a silent developer and market strategist. While others were chasing temporary hype, I was perfecting my craft from my private workstation. I chose the path of the **Solo Developer** because I believe in absolute accountability.
 
-Every line of code, every visual asset, and every pixel of our **120+ custom stickers** was handcrafted by me to ensure a legacy, not just a token.
+Every line of code, every visual asset, and every pixel of our **450+ custom stickers** was handcrafted by me to ensure a legacy, not just a token.
 
 ---
 
