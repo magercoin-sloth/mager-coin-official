@@ -24,7 +24,7 @@ At $MAGER, we believe the most powerful moves are made while being still. We are
 # The $MAGER App: Daily Lifestyle Solution
 
 <p align="center">
-  <img src="assets/$Mager%20app%20v.2.png" alt="$MAGER App Ecosystem" width="800">
+  <img src="assets/$Mager%20app%20v.2.png" alt="$MAGER App Ecosystem" width="100%">
 </p> 
 
 <div align="center">
